@@ -9,7 +9,6 @@ import FarmerSignUp from "./pages/FSignUP";
 import ProfileSetup from "./pages/profilesetup";
 import Home from "./pages/Home";
 import Dashboard from "./pages/dashboard";
-import NavMenuBar from "./components/NavMenuBar";
 import AboutUs from "./pages/about";
 import ContactUs from "./pages/contactUs" ; 
 import BuyerLogin from "./pages/blogin" ; 
