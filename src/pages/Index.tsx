@@ -1,7 +1,7 @@
 import { Button } from "@/components/ui/button";
 import { ArrowRight, Leaf, Shield, Truck } from "lucide-react";
 import { Link } from "react-router-dom";
-import logo_1 from "../assets/logo-removebg-preview.png";
+import logo_1 from "../assets/logo.jpg";
 
 const Index = () => {
   return (

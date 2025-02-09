@@ -19,6 +19,7 @@ import BuyerSignup from "./pages/BSignUp";
 import ProductListing from "./pages/pListing";
 import ProductDetails from "./pages/pDetails";
 import EditProfile from "./pages/editProfile";
+import TermsAndConditions from "./pages/terms";
 
 const queryClient = new QueryClient();
 
@@ -48,6 +49,7 @@ const App = () => {
             <Route path="/feedback" element={<FeedbackForm />} />
             <Route path="/blogin" element={<BuyerLogin />} />
             <Route path="/bprofile" element={<BuyerProfile />} />
+            <Route path="/terms" element={<TermsAndConditions />} />
             <Route path="/slogin" element={<SellerLogin />} />
             {/* <Route path="/bprofile" element={<BuyerProfile />} /> */}
             <Route path="/editProfile" element={<EditProfile />} />
