@@ -21,7 +21,7 @@ const ContactUs: React.FC = () => {
             <strong>Email:</strong> <a href="mailto:farmerbazaar@sofvare.com" className="text-green-600">farm2u@sofvare.com</a>
           </p>
           <p className="text-gray-700 text-lg">
-            <strong>Contact Number:</strong> <a href="tel:+918980251232" className="text-green-600">+91 89-8025-1232</a>
+            <strong>Contact Number:</strong> <a href="tel:+919337247437" className="text-green-600">+91 89-8025-1232</a>
           </p>
 
           <div className="border-t mt-6 pt-6">
